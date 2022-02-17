@@ -9,4 +9,4 @@ A list of project ideas for when I need a new coding project to work on.
   -  https://docs.github.com/en/rest/guides/getting-started-with-the-rest-api - githubs rest api docs
 -  Add a map with the trucks current location on it for my food truck project. https://github.com/AidanSpeakss/foodtrucks
 -  Add a menu section to my food truck project. https://github.com/AidanSpeakss/foodtrucks
--  Make a super-simple Node.JS CMS to for updating the location of your food truck (which then updates the map), updating your hours section, your menu, and your branding. https://github.com/AidanSpeakss/foodtrucks
+-  Make a super-simple Node.JS CMS for updating the location of your food truck (which then updates the map), updating your hours/locations, your menu, and your branding. https://github.com/AidanSpeakss/foodtrucks
