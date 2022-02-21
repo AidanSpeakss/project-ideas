@@ -10,3 +10,4 @@ A list of project ideas for when I need a new coding project to work on.
 -  Add a map with the trucks current location on it for my food truck project. https://github.com/AidanSpeakss/foodtrucks
 -  Add a menu section to my food truck project. https://github.com/AidanSpeakss/foodtrucks
 -  Make a super-simple Node.JS CMS for updating the location of your food truck (which then updates the map), updating your hours/locations, your menu, and your branding. https://github.com/AidanSpeakss/foodtrucks
+-  Modify the "Streamer Mode for Firefox extension" and give it the ability to add fake dm's in Twitter. Could be used to show people, how easy it is to fake video's of DM's, creating distrust in videos as a form of social proof. But in a way, by making this sort of tool, it would release the cat from the bag, allowing users to abuse it for nefarious and malicous purposes. I have serious moral and ethical questions to answer, before making such a tool.
